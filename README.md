@@ -9,3 +9,5 @@ Contains:
   Shape file Layer of Census tracts in Erie County   
   PNG and PDF of Erie BOE Council Election district maps  
  
+ 
+ ![Alt text](/screenshot.jpg?raw=true "Version 1.0")
